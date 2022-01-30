@@ -10,3 +10,6 @@ new Crypto Devs Contract Address: 0x67CD9399ef6Ca05c579C2B9beF42b64ed1Fd5883
 
 <img width="1440" alt="Screenshot 2022-01-30 at 3 11 19 AM" src="https://user-images.githubusercontent.com/36278808/151684053-bd92922b-b3e7-4acf-a6b5-79c03e6b8da9.png">
 
+# purchased a listed nft
+
+<img width="1440" alt="Screenshot 2022-01-30 at 5 03 17 PM" src="https://user-images.githubusercontent.com/36278808/151707430-11914726-7def-4a64-b2d8-39c8e6f555ec.png">
